@@ -18,5 +18,5 @@ Entorno de desarrollo: Visual Studio / Visual Studio Code
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
-bash
-   git clone https://github.com/ARSENHOLD/ejemplo1.git de e
+   ```bash
+   git clone https://github.com/ARSENHOLD/ejemplo1.git
