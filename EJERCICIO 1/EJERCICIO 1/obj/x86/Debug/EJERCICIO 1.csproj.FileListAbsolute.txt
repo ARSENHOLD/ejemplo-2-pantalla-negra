@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.exe
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.pdb
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\TALLER 1\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.exe
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\TALLER 1\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.pdb
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\TALLER 1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+C:\Users\Usuario\Desktop\daniel\fuente\u.t.p materias\programacion\progra en tiempo real\sistemas\TALLER 1\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+C:\Users\Usuario\Desktop\progra en tiempo real\sistemas\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.exe
+C:\Users\Usuario\Desktop\progra en tiempo real\sistemas\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.pdb
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.exe
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.pdb
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\ejemplo 2\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.exe
+C:\Users\Danie\Desktop\progra en tiempo real\TALLER 1 PTN\ejemplo 2\EJERCICIO 1\EJERCICIO 1\obj\x86\Debug\EJERCICIO 1.pdb
