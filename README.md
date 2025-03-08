@@ -21,4 +21,4 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clona el repositorio:**  
    ```bash
- git clone https://github.com/ARSENHOLD/ejemplo2.git
+   git clone https://github.com/ARSENHOLD/ejemplo2.git
